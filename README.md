@@ -41,5 +41,29 @@ Ubuntu 18.04 is the Linux distro I am using, and can be [acquired from the Windo
 The theme setup in my settings.json for Ubuntu looks like the following, notice the reference to the "Earth" theme.
 
 ```javascript
-
+{
+  "acrylicOpacity": 0.5,
+  "tabTitle" :  "ubuntu",
+  "backgroundImage": "c:/Users/shboyer/Pictures/dotnet_bg.png",
+  "closeOnExit": false,
+  "colorScheme": "Earth",
+  "commandline": "wsl.exe -d Ubuntu",
+  "cursorColor": "#FFFFFF",
+  "cursorShape": "bar",
+  "fontFace": "Fira Code",
+  "fontSize": 12,
+  "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
+  "historySize": 9001,
+  "icon": "ms-appx:///ProfileIcons/{9acb9455-ca41-5af7-950f-6bca1bc9722f}.png",
+  "name": "Ubuntu",
+  "padding": "0, 0, 0, 0",
+  "snapOnInput": true,
+  "useAcrylic": false
+},
 ```
+
+### Background
+
+`dotnet_bg.png`
+
+![background](images/dotnet_bg.PNG)
