@@ -2,7 +2,7 @@
 
 By popular demand, my WSL theme is here from [#dotnetconf](https://dotnetconf.net)
 
-I presented [Building Cloud Native Apps with .NET Core 3.0 and Kubernetes](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B108?WT.mc_id=dotnetconf-ch9-shboyer) and during the presentation I used [WSL for Linux](https://docs.microsoft.com/windows/wsl/install-win10?WT.mc_id=wsl-github-shboyer) to perform the command line tasks for `dotnet new, build, run`
+I presented [Building Cloud Native Apps with .NET Core 3.0 and Kubernetes](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B108?WT.mc_id=dotnet-0000-shboyer) and during the presentation I used [WSL for Linux](https://docs.microsoft.com/windows/wsl/install-win10?WT.mc_id=dotnet-0000-shboyer) to perform the command line tasks for `dotnet new, build, run`
 
 ![screenshot](images/screenshot.png)
 
@@ -36,7 +36,7 @@ The color schema is "Earth" from Burke's theme and looks great on the purple bac
 }
 ```
 
-Ubuntu 18.04 is the Linux distro I am using, and can be [acquired from the Windows Store](https://www.microsoft.com/store/p/ubuntu/9nblggh4msv6?WT.mc_id=wsl-github-shboyer).
+Ubuntu 18.04 is the Linux distro I am using, and can be [acquired from the Windows Store](https://www.microsoft.com/store/p/ubuntu/9nblggh4msv6?WT.mc_id=dotnet-0000-shboyer).
 
 The theme setup in my settings.json for Ubuntu looks like the following, notice the reference to the "Earth" theme.
 
